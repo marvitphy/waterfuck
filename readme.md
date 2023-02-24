@@ -7,6 +7,8 @@ Um app para te lembrar de bebar água. Hidrate-se.
 Em desenvolvimento
 ````
 
+[Documentação Notion](https://grave-salary-4d4.notion.site/57845d4ff79b4fcaba4296f230b0612b?v=d7332903d67643bd894f8ade5ed74e04)
+
 **Problema**
 
 Desenvolver um app que notifica a cada 2 horas que o usuário deve beber água.
